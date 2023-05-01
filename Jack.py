@@ -1,0 +1,1 @@
+print("If you were given a life..would you enjoy it or be sad about it")
